@@ -1,0 +1,65 @@
+[
+  {
+    "name": "zip4j",
+    "version": "2.11.5",
+    "url": "https://repo.maven.apache.org/maven2/net/lingala/zip4j/zip4j/2.11.5/zip4j-2.11.5.jar",
+    "sha256": "fee9a941f286166d4a19719d818f20e9f3addb3cbd7291c08b67f0e0ce75a9fd",
+    "size": 210027
+  },
+  {
+    "name": "commons-compress",
+    "version": "1.27.1",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar",
+    "sha256": "293d80f54b536b74095dcd7ea3cf0a29bbfc3402519281332495f4420d370d16",
+    "size": 1087319
+  },
+  {
+    "name": "commons-io",
+    "version": "2.16.1",
+    "url": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.16.1/commons-io-2.16.1.jar",
+    "sha256": "f41f7baacd716896447ace9758621f62c1c6b0a91d89acee488da26fc477c84f",
+    "size": 508826
+  },
+  {
+    "name": "commons-codec",
+    "version": "1.17.1",
+    "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar",
+    "sha256": "f9f6cb103f2ddc3c99a9d80ada2ae7bf0685111fd6bffccb72033d1da4e6ff23",
+    "size": 372687
+  },
+  {
+    "name": "commons-lang3",
+    "version": "3.16.0",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.16.0/commons-lang3-3.16.0.jar",
+    "sha256": "08709dd74d602b705ce4017d26544210056a4ba583d5b20c09373406fe7a00f8",
+    "size": 674238
+  },
+  {
+    "name": "xz",
+    "version": "1.9",
+    "url": "https://repo.maven.apache.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar",
+    "sha256": "211b306cfc44f8f96df3a0a3ddaf75ba8c5289eed77d60d72f889bb855f535e5",
+    "size": 116013
+  },
+  {
+    "name": "junrar",
+    "version": "7.5.5",
+    "url": "https://repo.maven.apache.org/maven2/com/github/junrar/junrar/7.5.5/junrar-7.5.5.jar",
+    "sha256": "e01b949687e2a5b4c68011c1702aa5d2cc8e6c458656ac2c91658b69cebb1bb3",
+    "size": 161628
+  },
+  {
+    "name": "slf4j-api",
+    "version": "1.7.36",
+    "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar",
+    "sha256": "d3ef575e3e4979678dc01bf1dcce51021493b4d11fb7f1be8ad982877c16a1c0",
+    "size": 41125
+  },
+  {
+    "name": "slf4j-nop",
+    "version": "1.7.36",
+    "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.36/slf4j-nop-1.7.36.jar",
+    "sha256": "c214958b07816cb4412b30c7bdbd4308ffdc6ba2a83767b8f3a9229cbd9274d6",
+    "size": 3946
+  }
+]

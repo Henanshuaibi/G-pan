@@ -1,0 +1,10 @@
+/tools/
+/build/
+*.keystore
+*.jks
+*.apk
+*.part
+.env*
+local.properties
+
+/*.log
